@@ -1,10 +1,17 @@
 {
-  "name": "z-create-nuxt",
-  "version": "0.0.1",
+  "name": "create-z-nuxt",
+  "version": "0.0.3",
   "description": "Nuxt 3 Quickstart",
   "bin": {
-    "z-create-nuxt": "bin.js"
+    "create-z-nuxt": "bin.js"
   },
+  "keywords": [
+    "create-z-nuxt",
+    "nuxt",
+    "nuxt3",
+    "quickstart",
+    "create nuxt"
+  ],
   "author": "rafazafar",
   "license": "ISC",
   "type": "module",
