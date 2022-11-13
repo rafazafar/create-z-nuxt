@@ -1,6 +1,6 @@
 {
   "name": "create-z-nuxt",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Nuxt 3 Quickstart",
   "bin": {
     "create-z-nuxt": "bin.js"
